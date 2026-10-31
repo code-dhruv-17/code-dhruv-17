@@ -11,5 +11,5 @@ I'm a BCA undergrad at the University of Lucknow, focused on backend logic and l
   ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 - 📫 **Let's connect:** [Insert your LinkedIn profile link here]
 - 📊 **GitHub Stats:**
-![Dhruv's GitHub stats](https://github-readme-stats.vercel.app/api?username=code-dhruv-17&show_icons=true&theme=dracula)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=code-dhruv-17&layout=compact&theme=dracula)
+    ![Dhruv's GitHub stats](https://github-readme-stats.vercel.app/api?username=code-dhruv-17&show_icons=true&theme=dracula)
+    ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=code-dhruv-17&layout=compact&theme=dracula)
