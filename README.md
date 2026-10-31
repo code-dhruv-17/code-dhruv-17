@@ -9,7 +9,7 @@ I'm a BCA undergrad at the University of Lucknow, focused on backend logic and l
     ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
     ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
     ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-- 📫 **Let's connect:** [LinkedIn](https://www.linkedin.com/in/dhruvyadav17/)
+- 📫 **Let's connect:** [LinkedIn](https://www.linkedin.com/in/dhruvyadav17)
 - 📊 **GitHub Stats:**
     ![Dhruv's GitHub stats](https://github-readme-stats.vercel.app/api?username=code-dhruv-17&show_icons=true&theme=dracula)
     ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=code-dhruv-17&layout=compact&theme=dracula)
